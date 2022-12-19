@@ -1,72 +1,72 @@
-body{
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
-    line-height: 30px;
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  line-height: 30px;
 }
-header{
-    background-color: #5A189A;
-    text-align: center;
-    padding-top: 50px;
-    padding-bottom: 50px;
+header {
+  background-color: #5a189a;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
-header h1{
-    color: white;
-    font-size: 50px;
-    
+header h1 {
+  color: white;
+  font-size: 50px;
 }
-header img{
-    border-radius: 150px;
-    width: 300px;
-    /* border: 10px solid #483a94; */
-    border: 10px solid #E0AAFF;
+header img {
+  border-radius: 150px;
+  width: 300px;
+  /* border: 10px solid #483a94; */
+  border: 10px solid #e0aaff;
 }
-h1, h2{
-    font-family: 'IM Fell French Canon', serif;
+h1,
+h2 {
+  font-family: "IM Fell French Canon", serif;
 }
-main{
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
 }
-main img{
-    max-width: 100%;
-}
-
-h2{
-    font-size: 35px;
-    color:#5A189A;
-    margin: 40px 0 10px;
+main img {
+  max-width: 100%;
 }
 
-a{
-    color:#5A189A
-}
-a:hover{
-    color:#E0AAFF
-}
-footer{
-    background-color: #5A189A;
-    text-align: center;
-    color: white;
-    padding: 50px;
+h2 {
+  font-size: 35px;
+  color: #5a189a;
+  margin: 40px 0 10px;
 }
 
-footer p{
-    margin: 0;
+a {
+  color: #5a189a;
+}
+a:hover {
+  color: #e0aaff;
+}
+footer {
+  background-color: #5a189a;
+  text-align: center;
+  color: white;
+  padding: 50px;
 }
 
-footer a{
-    color: white;
-}
-footer a:hover{
-    /* opacity: .5; */
-    background-color: transparent;
-    color: greenyellow;
+footer p {
+  margin: 0;
 }
 
-p.caption{
-    color: #777777;
-    font-style: italic;
-    margin-top: 0;
+footer a {
+  color: white;
+}
+footer a:hover {
+  /* opacity: .5; */
+  background-color: transparent;
+  color: greenyellow;
+}
+
+p.caption {
+  color: #777777;
+  font-style: italic;
+  margin-top: 0;
 }
